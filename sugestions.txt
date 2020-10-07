@@ -1,0 +1,7 @@
+Centrar botones,
+eliminar pantalla de bienvenida e integrarla con la de poner los nombres
+al ganar poner en grises las letras que no ganan para que resalte y poner un delay antes de pasar a la pantalla de well done
+resolucion 1920x1080
+cambiar el limite de nombres para que deje entrar el maximo numero de caracteres, buscar posibilidad de usar letras modulares
+poner opcion de interrumpir el juego en el menu
+
